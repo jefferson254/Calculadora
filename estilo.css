@@ -1,0 +1,52 @@
+body {
+	background: #00da9c url(./images/inst.jpg) repeat top center;
+	
+    background-repeat: center no-repeat;
+
+}
+/* -- ------------------------------------------------------------------------------------ */
+
+
+#binario{
+    color: #CC0000;
+    }
+    #entero{
+        color: #CC0000;
+        }#decimal{
+            color: #CC0000;
+            }
+            #entero_conv{
+                color: #CC0000;
+
+            }
+
+/* estilos de mi barra de menu */
+#BarraHTML {
+	background-color: #000;
+		padding: 1px;
+		width: 100%;
+		z-index: 10;
+		transition-property: text-decoration;
+		transition-duration: 0.8s;
+	}
+	#BarraHTML ul{
+	   list-style-type: none;
+	}
+   
+	#BarraHTML li{
+	   display: inline;
+	   text-align: right;
+	   margin: 0 0 0 0;
+	}
+	#BarraHTML li a {
+	   padding: 5px 7px 5px 7px;
+	   text-decoration: none;
+	}
+	#BarraHTML li a:hover{
+	   background-color: #ca1010;
+	   color: #030303;
+	}
+	#texto{
+	  color: #9b8989;
+	   padding: 1px ;    
+	}
